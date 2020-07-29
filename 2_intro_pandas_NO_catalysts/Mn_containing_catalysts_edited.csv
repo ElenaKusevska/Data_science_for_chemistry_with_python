@@ -1,0 +1,39 @@
+Catalyst|Preparation process|Preparation details|Reaction conditions (Reaction gas mixture and GHSV)|NOx conversion 1|T1 degC|Poison condition (The concentration of SO2 and H2O introduced on the basis of reaction gas)|NOx conversion 2 - after introducing SO2 and/or H2O for a specified time|T2|reaction time 2|Ref
+Mn0.4-Ce0.5-Sn0.1-O|Co-precipitation|500 degC 6 h|0.1% NO, 0.1% NH3, 2% O2/35[thin space (1/6-em)]000 h~1|100|110-230|0.01% SO2, 9% H2O|62|110||130
+Mn0.2-Ce0.1-Ti0.7-O|Hydrothermal|500 degC 6 h|0.05% NO, 0.05% NH3, 5% O2/64[thin space (1/6-em)]000 h~1|>92|150-250|0.005% SO2, 5% H2O|~90|200|10 h|96
+Mn0.3-Ce0.7-O|Citric acid|650 degC 6 h|0.1% NO, 0.1% NH3, 2% O2/42[thin space (1/6-em)]000 h~1|>95|100-150 |0.01% SO2, 2.5% H2O|~95|120|4 h|76
+Mn5-Ce5-O|Surfactant template|500 degC 4 h|0.05% NO, 0.05% NH3, 5% O2/64[thin space (1/6-em)]000 h~1|>95|100-200|0.005% SO2, 5% H2O|>90|150-200 |-)|127
+Mn0.28-Ce0.05-Ti 0.67-O|Co-precipitation|400 degC 2 h|0.06% NO, 0.06% NH3, 3% O2/40[thin space (1/6-em)]000 h~1|>92|120-180 |0.07% SO2, 3% H2O|35|120 |13 h)|137
+Mn0.4-Ce0.07-Ti1-O|Sol-gel|500 degC 6 h|0.08% NO, 0.08% NH3, 3% O2/40[thin space (1/6-em)]000 h~1|~100|100-180 |0.01% SO2, 3% H2O|~60|100 |10 h)|138
+Sn0.1-Mn0.4-Ce0.5-O|Co-precipitation|500 degC 6 h|0.1% NO, 0.1% NH3, 2% O2/35[thin space (1/6-em)]000 cm3 g~1 h~1|~100|110-230 |0.01% SO2, 12% H2O|~70|110 |9 h)|131
+Mn1-Ce0.3/TiO2-graphene|Impregnation|500 degC 6 h|0.05% NO, 0.05% NH3, 7% O2/67[thin space (1/6-em)]000 h~1|>90|140-180 |0.02% SO2, 10% H2O|~75|180 |3 h)|117
+Mn0.6/Ce0.5-Zr0.5-O|Impregnation|500 degC 6 h|0.06% NO, 0.06% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|>90|140-180 |0.01% SO2, 3% H2O|~90|180 |3 h)|139
+Mn0.4-Ce0.07-Ti1-O|Sol-gel|500 degC 6 h|0.1% NO, 0.1% NH3, 3% O2/40[thin space (1/6-em)]000 h~1|~100|120-220 |0.01% SO2, 3% H2O|~82|150 |7 h)|140
+Mn0.4-Ce0.5-W0.1-O|Sol-gel|600 degC 3 h|0.05% NO, 0.05% NH3, 5% O2/40[thin space (1/6-em)]000 h~1|>80|140-300 |0.006% SO2, 5% H2O|~55|150 |3 h)|141
+Mn0.3-Ce0.7-O|Citric acid|650 degC 6 h|0.1% NO, 0.1% NH3, 2% O2/42[thin space (1/6-em)]000 h~1|~100|120-150 |0.01% SO2, 6% H2O|~92|120 |4 h)|23
+Mn0.2-Ce0.1-Ti0.7-O|Hydrothermal|500 degC 6 h|0.05% NO, 0.05% NH3, 5% O2/64[thin space (1/6-em)]000 h~1|>95|150-350 |0.005% SO2, 5% H2O|~90|200 |10 h)|96
+Mn-Ce-W-Ti-O|Impregnation|400 degC 4 h|0.02% NO, 0.02% NH3, 8% O2/30[thin space (1/6-em)]000 h~1|~100|160-200 |0.01% SO2, 8% H2O|~85|180 |10 h)|97
+Mn0.4-Ce0.07-Ti1-O|Co-precipitation|400 degC 2 h|0.06% NO, 0.06% NH3, 3% O2/40[thin space (1/6-em)]000 h~1|>92|120-180 |0.07% SO2, 3% H2O|61|120 |2.5 h)|142
+Mn0.2-Fe0.15-Ce0.3-Ti1-O|Sol-gel|500 degC 6 h|0.06% NO, 0.06% NH3, 3% O2/50[thin space (1/6-em)]000 h~1|>95|160-260 |0.01% SO2, 3% H2O|~85|180 |6 h)|143
+Mn0.6-Ce0.5-Zr0.5-O|Impregnation|500 degC 6 h|0.06% NO, 0.066% NH3, 6% O2/45[thin space (1/6-em)]000 h~1|>95|140-220 |0.01% SO2, 3% H2O|~90|180 |7 h)|144
+Mn0.4-Fe0.1-Ce0.5-O|Co-precipitation|500 degC6 h|0.1% NO, 0.1% NH3, 2% O2/84[thin space (1/6-em)]000 h~1|>82|150-180 |0.01% SO2, 2.5% H2O|>90|150 |4 h)|27
+Mn0.4-Ce0.1-Ti1-O|Sol-gel|500 degC v6 h|0.08% NO, 0.08% NH3, 3% O2/40[thin space (1/6-em)]000 h~1|~100|150 |0.01% SO2, 3% H2O|~60|150 |10 h)|25
+Mn0.6-Fe0.4-O|Citric acid|500 degC3 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|>95|90-220 |0.01% SO2, 5% H2O|~88|120 |6 h)|98
+10% Mn/Fe-Ti spinel|Impregnation|500 degC 3 h|0.05% NO, 0.05% NH3, 2% O2/24[thin space (1/6-em)]000 cm3 g~1 h~1|>95|150-250 |0.006% SO2, 8% H2O|~80|200 |13 h)|53
+Mn0.4-Fe0.1/Ti1-Zr0.5-O|Sol-gel|500 degC 6 h|0.1% NO, 0.1% NH3, 4% O2/30[thin space (1/6-em)]000 h~1|>95|80-180 |0.01% SO2, 8% H2O|~70|150 |5 h)|89
+Mn0.4-Fe0.1/Ti0.5-O|Sol-gel|500 degC 6 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|~100|150 |0.02% SO2|~65|150 |6 h)|123
+Mn0.6-Ti1-O|Sol-gel|500 degC 6 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|~100|110 |0.003% SO2|~85|120 |9 h)|132
+Mn0.4-Ti1-O|Sol-gel|500 degC 6 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|>90|180-250 |0.02% SO2, 3% H2O|~70|150 |6 h)|118
+Mn-Fe-Ce-Ti-O|Sol-gel|500 degC 6 h|0.06% NO, 0.048% NH3, 2% O2/24[thin space (1/6-em)]000 h~1|>80|200-300 |0.03% SO2, 10% H2O|~80|240 |5 h)|111
+7% Mn/Ti1-graphene|Impregnation|450 degC 6 h|0.05% NO, 0.05% NH3, 7% O2/67[thin space (1/6-em)]000 h~1|>80|120-180 |0.02% SO2, 10% H2O|~72|180 |3 h)|115
+Mn0.5-Zr0.5-O|Citric acid|450 degC 3 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|~100|100-200 |0.01% SO2, 5% H2O|~40|150 |13 h)|124
+Mn2.5-Cu0.1-Ti1-O|Co-precipitation|350 degC 6 h|0.05% NO, 0.05% NH3, 5% O2/30[thin space (1/6-em)]000 h~1|~100|60-280 |0.01% SO2, 11% H2O|~60|125 |10 h)|39
+Mn4/Co0.6-Ce2.7-Zr2.7|Impregnation|500 dedgC 6 h|0.06% NO, 0.06% NH3, 6% O2/45[thin space (1/6-em)]000 h~1|>97|120-220 |0.01% SO2, 3% H2O|~93|180 |7 h)|109
+Mn0.6-Cr0.4-O|Citric acid|650 degC 3 h|0.1% NO, 0.1% NH3, 3% O2/30[thin space (1/6-em)]000 h~1|~100|120-220 |0.01% SO2|~82|120 |5 h)|37
+Mn0.3-Ce0.7-O|Citric acid|650 degC 6 h|0.05% NO, 0.05% NH3, 2% O2/30[thin space (1/6-em)]000 cm3 g~1 h~1|>95|120-160 |5% H2O|~70|120-140 |61
+Mn0.3-Ce0.7-O|Citric acid|650 degC 6 h|0.05% NO, 0.05% NH3, 2% O2/120[thin space (1/6-em)]000 cm3 g~1 h~1|>90|140-200 |5% H2O|>70|160-200 |88
+Mn-Ce/W-Zr-O|Impregnation|550 degC 3 h|0.1% NO, 0.1% NH3, 5% O2/10[thin space (1/6-em)]000 h~1|>90|150-250 |0.01% SO2, 10% H2O|<80|140-240 |145
+Mn-Ce/activated carbon honeycomb|Impregnation|400 degC 3 h|0.05% NO, 0.05% NH3, 5% O2/1910 h~1|~84|160 |0.03% SO2|~44|160 |7 h)|113
+Mn0.23-Nb0.23-Ce0.54-O|Co-precipitation|650 degC 5 h|0.1% NO, 0.1% NH3, 10% O2/52[thin space (1/6-em)]000 h~1|-|-|5% H2O|>80|200-300 |146
+Mn0.23-Nb0.23-Ce0.54-O|Co-precipitation|650 degC 5 h|0.1% NO, 0.1% NH3, 10% O2/52[thin space (1/6-em)]000 h~1|>78|200-300 |0.005% SO2, 5% H2O|~20|250 |0.5 h)|147
+Mn2.5-La2.5-Ce1-Ni1|Not Known|500 degC 6 h|0.06% NO, 0.06% NH3, 6% O2/20[thin space (1/6-em)]000 h~1|~98|150-350 |0.03% SO2|~85|200 |4 h)|148

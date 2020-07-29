@@ -60,6 +60,16 @@ df["pH mid"] = (df["pH start"] + df["pH end"]) / 2
 # Because: Kind = [H+][Ind-]/[HInd], and [Ind-] = [HInd]
 # at the point of the color change
 
+xx=df['pKa']
+yy=df['pH mid']
+print(xx)
+print(yy)
+matplotlib.pyplot.figure('Scatterplot')
+matplotlib.pyplot.xlabel("pka")
+matplotlib.pyplot.ylabel("pH mid")
+matplotlib.pyplot.title("pka ~ pH mid")
+matplotlib.pyplot.scatter(xx,yy)
+
 # Because of this, we can substitute pka with pH mid where it
 # is not available
 # (Just for practice with pandas. Missing values should never
@@ -79,6 +89,10 @@ print("---------------------------")
 print(df["pH mid - binned"].value_counts())
 print(" ")
 
+df_grp = df.groupby('pH mid - binned')['pH mid'].mean()
+print('group by output:')
+print(df_grp)
+
 # Plot bins as histogram:
 matplotlib.pyplot.figure('Histogram')
 matplotlib.pyplot.xlabel("pH mid")
@@ -94,5 +108,4 @@ matplotlib.pyplot.title("pH mid binned")
 matplotlib.pyplot.bar(df['pH mid - binned'].value_counts().index.tolist(), df["pH mid - binned"].value_counts())
 
 matplotlib.pyplot.show()
-
 
